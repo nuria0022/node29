@@ -4,7 +4,7 @@ API REST para administrar un catálogo de productos, construida con Node.js y Ex
 
 Permite consultar, crear, modificar y eliminar productos, con búsqueda, filtros, paginación, validación de datos y protección de las operaciones de escritura mediante API key.
 
-**API desplegada:** _(pendiente)_
+**API desplegada:** https://node29.onrender.com
 
 ## Tecnologías
 
